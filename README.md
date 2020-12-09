@@ -1,4 +1,5 @@
-A developer at core. Working in Microsoft as Cloud Solution Architect. 
+Working at Microsoft as a Cloud Solution Architect. Works on Azure, C#, Python, Golang...
+
 
 ## Contacts
 - [Twitter](https://twitter.com/wrijugh)
@@ -7,6 +8,9 @@ A developer at core. Working in Microsoft as Cloud Solution Architect.
 - [Facebook page](https://www.facebook.com/groups/azureforall)
 - [Dev Blog](https://dev.to/wrijugh)
 - [Tech Blog](https://wriju.wordpress.com/)
+
+
+
 <!--
 **wrijugh/wrijugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
