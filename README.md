@@ -1,5 +1,12 @@
-### Hi there 👋
+A developer at core. Working in Microsoft as Cloud Solution Architect. 
 
+## Contacts
+- [Twitter](https://twitter.com/wrijugh)
+- [LinkedIn](https://www.linkedin.com/in/wrijughosh/)
+- [Youtube Channel](https://www.youtube.com/channel/UCUzFKvlZOm3ukAiF59B_HgQ)
+- [Facebook page](https://www.facebook.com/groups/azureforall)
+- [Dev Blog](https://dev.to/wrijugh)
+- [Tech Blog](https://wriju.wordpress.com/)
 <!--
 **wrijugh/wrijugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
